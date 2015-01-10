@@ -1,8 +1,8 @@
 # first
 First repo for test.
 
-## name
-Yoshihiro Ueda
+## Name
+R. Yoshihiro Ueda
 
 ## On the net
 * Twitter: @ryokan
